@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/tlaceby/parser-series/src/ast"
-	"github.com/tlaceby/parser-series/src/lexer"
+	"github.com/bayoharyo/lexer-parser-ast/src/ast"
+	"github.com/bayoharyo/lexer-parser-ast/src/lexer"
 )
 
 func parse_stmt(p *parser) ast.Stmt {

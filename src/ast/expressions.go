@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/tlaceby/parser-series/src/lexer"
+import "github.com/bayoharyo/lexer-parser-ast/src/lexer"
 
 // -------------------
 // LITERAL EXPRESSIONS

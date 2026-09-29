@@ -3,8 +3,8 @@ package parser
 import (
 	"fmt"
 
-	"github.com/tlaceby/parser-series/src/ast"
-	"github.com/tlaceby/parser-series/src/lexer"
+	"github.com/bayoharyo/lexer-parser-ast/src/ast"
+	"github.com/bayoharyo/lexer-parser-ast/src/lexer"
 )
 
 type type_nud_handler func(p *parser) ast.Type

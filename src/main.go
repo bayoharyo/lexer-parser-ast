@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
+	"github.com/bayoharyo/lexer-parser-ast/src/lexer"
+	"github.com/bayoharyo/lexer-parser-ast/src/parser"
 	"github.com/sanity-io/litter"
-	"github.com/tlaceby/parser-series/src/lexer"
-	"github.com/tlaceby/parser-series/src/parser"
 )
 
 func main() {

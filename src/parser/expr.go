@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/tlaceby/parser-series/src/ast"
-	"github.com/tlaceby/parser-series/src/lexer"
+	"github.com/bayoharyo/lexer-parser-ast/src/ast"
+	"github.com/bayoharyo/lexer-parser-ast/src/lexer"
 )
 
 func parse_expr(p *parser, bp binding_power) ast.Expr {
